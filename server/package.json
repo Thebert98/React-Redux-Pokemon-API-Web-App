@@ -1,0 +1,21 @@
+{
+  "name": "cs_554_lab_6_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Timothy Hebert 20007511",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bluebird": "^3.4.7",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "flat": "^5.0.2",
+    "node-redis": "^0.1.7",
+    "redis": "^3.0.2"
+  }
+}
